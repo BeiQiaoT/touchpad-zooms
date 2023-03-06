@@ -28,7 +28,7 @@
 10. `setXY`: 设置目标元素的偏移坐标。
 11. `resetXY(x: number, y: number)`: 设置目标元素的偏移坐标（立即更新）。
 12. `refreshStyle()`: 刷新样式（立即更新）。
-13. `init(container: HTMLElement, target: HTMLElement)`: 初始化方法，将父元素和目标元素保存为属性，并绑定事件。此外，该方法还居中显示目标元素并设置其初始样式。
+13. `init(container: HTMLElement, target: HTMLElement)`: 初始化方法，将父元素和目标元素保存为属性，并绑定事件。
 14. `removeEvent()`: 移除事件。
 
 ## 使用案例
