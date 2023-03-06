@@ -4,6 +4,8 @@
 
 此Demo演示了如何使用触控板手势缩放内容。
 
+在线预览：[https://beiqiao.gitee.io/touchpad-zooms/](https://beiqiao.gitee.io/touchpad-zooms/)
+
 ## 说明
 
 1. `command` / `ctrl` + `+` 放大
